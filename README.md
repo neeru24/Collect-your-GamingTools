@@ -1,5 +1,5 @@
 # 🎮 Collect Your GamingTools 🕹️
-A <b> responsive and dynamic website </b> to showcase the best gaming accessories for every gamer!
+A <b> responsive and dynamic website </b> to showcase the best gaming accessories for every gamer! 
 
 
 # ✨ Features
